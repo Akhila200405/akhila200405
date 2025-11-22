@@ -1,67 +1,65 @@
-## Hi there 👋
-<h1 align="center">Hi 👋, I'm AKHILA A S</h1>
-<h3 align="center">Final-year CSE Student | Web Developer | App Developer | Tech Enthusiast</h3>
-
----
-
-### 🌟 About Me  
-I am a passionate Computer Science student specializing in **Web Development, App Development, and DevOps**.  
-I love building real-world applications, learning new tools, and solving problems with clean and efficient code.
-
----
-
-### 🔧 Skills  
-- **Languages:** Python, C, C++, JavaScript  
-- **Frontend:** HTML, CSS, React  
-- **Backend:** (You can add Flask/Node if you learn later)  
-- **Database:** MySQL  
-- **Tools:** Git, GitHub  
-
----
-
-### 💡 Interests  
-- Web Development  
-- App Development  
-- DevOps  
-- Business & Technology  
-
----
-
-### 📫 Contact Me  
-📧 **Email:** akhilaas2004@gmail.com  
-🌐 **Portfolio:** (Add later when you build one)
-
----
-
-### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akhila200405&show_icons=true" />
-</p>
+<h1 align="center">Hi, I'm AKHILA A S 👋</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhila200405&layout=compact" />
+  Final-year CSE student passionate about building modern web & mobile applications and exploring DevOps.  
 </p>
 
 ---
 
-### 🚀 Projects  
-👉 I will add project section after you upload 2–3 projects.
+## 🚀 About Me
+- 🎓 Final-year B.Tech Computer Science (KTU)  
+- 💻 I enjoy building real-world projects using web & app technologies  
+- 🌱 Currently learning DevOps tools & cloud concepts  
+- 📈 Interested in business, product development & tech innovation  
+- ✉️ Reach me at: **akhilaas2004@gmail.com**
 
 ---
 
-⭐ Thanks for visiting my profile!
+## 🛠 Skills & Technologies
 
-<!--
-**Akhila200405/akhila200405** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### **Languages**
+- Python  
+- C, C++  
+- JavaScript  
+- SQL
 
-Here are some ideas to get you started:
+### **Frontend**
+- HTML  
+- CSS  
+- React  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### **Backend / Database**
+- MySQL  
+- Basic REST APIs  
+
+### **Tools**
+- Git & GitHub  
+- VS Code  
+
+---
+
+## 📌 Featured Projects
+🔹 *Add your projects here after uploading them*  
+Examples:
+- **Real-Time Bus Tracking System**  
+- **E-commerce Website**  
+- **Task Manager App**  
+- **Portfolio Website**
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akhila200405&show_icons=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhila200405&layout=compact" height="150" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+- 📧 Email: **akhilaas2004@gmail.com**  
+- 🌐 (Optional) Add LinkedIn link here later
+
+---
+
+⭐ *Thanks for visiting my profile!*
