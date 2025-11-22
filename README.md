@@ -58,7 +58,7 @@ Examples:
 
 ## 🤝 Connect With Me
 - 📧 Email: **akhilaas2004@gmail.com**  
-- 🌐 (Optional) Add LinkedIn link here later
+- 🌐 http://www.linkedin.com/in/akhila-a-s-83094226a
 
 ---
 
